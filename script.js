@@ -6,7 +6,7 @@ View more at www.janniskev.in
 */
 
 const textDisplay = document.getElementById("text")
-const phrases = ['Hola, de parte de: Luis Alberto Marín ' ,'Te deseo lo mejor para tí ', 'y tus seres queridos ', 'Felíz Navidad 2024 ', 'y prospero 2025 ']
+const phrases = ['Hola, de parte de: Alberto Marín ' ,'Te deseo lo mejor para tí ', 'y tus seres queridos ', 'Felíz Navidad 2024 ', 'y prospero 2025 ']
 
 let i = 0
 let j = 0
