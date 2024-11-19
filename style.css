@@ -528,6 +528,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background: #0be881; */
-  margin-bottom: 30%;
+  margin-bottom: 10%;
 }
